@@ -20,7 +20,7 @@ def calc_progress(data):
 
 
 def progress_bar(progress):
-    st.write(f"Progress: {progress}")
+    st.write(f"Progress: {progress}%")
     st.progress(progress)
 
 @st.cache
