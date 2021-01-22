@@ -2,6 +2,9 @@
 
 Predicts weather a note is **fake** or **not** with **0.99** Accuracy
 
+### Kaggle 📕 Notebook
+https://www.kaggle.com/saikiranrudra2/eda-simple-approach-1-0-accuracy
+
 ## 🚀 Preview
 1. **Desktop Home**
 
